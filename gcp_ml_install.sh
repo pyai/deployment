@@ -5,10 +5,6 @@
 ## Copyright (c) 2015 - 2030, Yu Chun Yang.
 ## All rights reserved.
 ##
-## All contributions by DSP:
-## Copyright (c) 2015 - 2030, DSP, Inc.
-## All rights reserved.
-##
 ## Each contributor holds copyright over their respective contributions.
 ## The project versioning (Git) records all such contribution source information.
 
