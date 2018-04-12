@@ -80,7 +80,7 @@ openssl req -x509 -nodes -days 3650 -newkey rsa:1024 -keyout ~/ssl/mykey.key -ou
 cd ~
 
 ##########
-echo_progress "install htop, tmux, git, p7zip, bzip2" "(安裝 htop, tmux, p7zip, bzip2)"
+echo_progress "install htop, tmux, git, p7zip, bzip2" "(安裝 htop, tmux, git, p7zip, bzip2)"
 ##########
 sudo apt-get update
 sudo apt-get install -y htop
